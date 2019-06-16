@@ -1,5 +1,5 @@
 # Danbooru
-![danbooru_preview.png](https://raw.githubusercontent.com/Ddeokbokki/Danbooru/master/danbooru_preview.png)
+![preview_danbooru.png](https://raw.githubusercontent.com/Ddeokbokki/Danbooru/master/preview_danbooru.png)
 
 ___
 I'm using both Better Better Booru and Danbooru Misc Tweaks userscripts alongside this.
